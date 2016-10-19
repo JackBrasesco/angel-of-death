@@ -18,5 +18,6 @@
 
 #start {
   position: relative;
-  top: 600;
+  top: -100;
+  left: 500;
 }
